@@ -1,4 +1,4 @@
-[Back](../../)
+[Back](../../../)
 
 # Trabalho 02 de CN: Regressão (Pelo Método dos Quadrados Mínimos)
 

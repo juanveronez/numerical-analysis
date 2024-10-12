@@ -1,4 +1,4 @@
-[Back](../../)
+[Back](../../../)
 
 # Trabalho 03 de CN: Otimização Por Equações Lineares
 

@@ -1,4 +1,4 @@
-[Back](../../)
+[Back](../../../)
 
 # Trabalho 01 de CN: Resolução de Sistemas Lineares
 
